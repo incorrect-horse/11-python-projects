@@ -1,7 +1,7 @@
 11 Python Projects from Beginner to OOP
 
 - Project 1 - Health Potion
- - variables
+ -- variables
  - data types
  - working with numbers
 - Project 2 - Hello World
